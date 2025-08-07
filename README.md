@@ -1,7 +1,7 @@
 # Hi, I'm Bach<br>
 
 # 💫 About Me:
-🔭 I’m currently study at USTH<br>
+🔭 I’m currently studying at USTH<br>
 🤝 How to reach me: bachnguyengia206@gmail.com<br>
 🌱 I’m currently learning Information and Communication Technology<br>
 💬 Ask me about: C/C++, React, Figma,...<br>
